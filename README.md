@@ -93,11 +93,8 @@ Smart pointers are utilized for safe and efficient memory management:
 
 ## 📝 UML Class Diagram
 
-Add your UML class diagram image in the repository (for example, in a `diagrams/` folder):
+[Class Diagram](Class-Diagram-for-the-Solution.png)
 
-```
-![Class Diagram](diagrams/class-diagram.png)
-```
 
 ---
 
