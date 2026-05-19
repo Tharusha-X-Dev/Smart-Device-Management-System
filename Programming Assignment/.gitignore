@@ -1,0 +1,18 @@
+# Visual Studio temporary files
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Build files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+
+# User-specific files
+*.user
+*.VC.db
+*.opendb

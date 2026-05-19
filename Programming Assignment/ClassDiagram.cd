@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AirConditioning">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAABAAAAAAIAAAAAAAABAEAAAAAAAAAAAAAg=</HashCode>
+      <FileName>AirConditioning.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleMenu">
+    <Position X="21.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAACAAAAAAAAAAAAAQAAAAAAAAAAAAAIAAgAAA=</HashCode>
+      <FileName>ConsoleMenu.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeviceManager">
+    <Position X="25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACgAEgNIAAgIAAAAABBAAFAAAAgAAEAiAAADAAAQAAA=</HashCode>
+      <FileName>DeviceManager.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Device">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQICEAJAABAAgAAAAABQAAAAAAkEABAACAEAEAAAgA=</HashCode>
+      <FileName>Device.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoorLock">
+    <Position X="16" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAABAAACAAAAAAAAAAAAAEAIAAAAAAAAAAAg=</HashCode>
+      <FileName>DoorLock.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputValidator">
+    <Position X="21.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAgAAAAAgAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>inputValidator.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projector">
+    <Position X="10.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAACAAAAAVAAAAAAAAAAAAAAAAAEAAAAABAgAEAAAA=</HashCode>
+      <FileName>Projector.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoomLighting">
+    <Position X="12.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAABAAAAAAAAAAAAAEAAAEAAAAABAAAAAAAA=</HashCode>
+      <FileName>RoomLighting.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SecurityCamera">
+    <Position X="18.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAJAAAAAAAAAAAAAAgAAEAAAAAAAAAAAAAI=</HashCode>
+      <FileName>SecurityCamera.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
